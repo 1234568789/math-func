@@ -1,0 +1,5 @@
+a module for buildiing a calculator programme easily
+
+happy coding
+
+copyright thompson enterprises
